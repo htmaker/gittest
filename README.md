@@ -1,2 +1,1 @@
-Hello!
-This is a test project!
+Hello! This is a test project!
